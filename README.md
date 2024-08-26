@@ -16,5 +16,5 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/samratyeager)
 [![Twitter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/samratsthaa)
-[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/samratyeager)
+[![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/neee_sm)
 [![Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/samratyeager)
