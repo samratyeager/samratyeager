@@ -5,7 +5,7 @@ I'm Samrat, a programmer based in Nepal.
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories).
 
-## Talking about perosnal stuffs:
+## Talking about personal stuffs:
 
 - I'm an IT enthusiast Student.
 - I’m currently learning JavaScript.
