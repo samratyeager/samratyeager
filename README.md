@@ -13,6 +13,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 - This is where I write, code and solve problems:
 
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://www.github.com/samratyeager)
+[![StackOverflow](https://img.icons8.com/fluent/48/000000/stackoverflow.png)]([https://www.github.com/samratyeager](https://stackoverflow.com/users/27024310/samratstha))
 
 ## Contact me:
 
