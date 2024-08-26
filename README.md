@@ -7,7 +7,6 @@ I like combining my technical knowledge with design to make beautiful and effici
 Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories).
 
 ## Fun Facts:
-
 - I like coffee.
 - One Piece is my favorite anime.
 - I love using Mac after switching from Linux.
