@@ -14,7 +14,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://www.github.com/samratyeager)
 [![StackOverflow](https://img.icons8.com/fluent/48/000000/stackoverflow.png)](https://stackoverflow.com/users/27024310/samratstha)
-[![LeetCode](https://img.icons8.com/fluent/48/000000/leetcodes.png)](https://leetcode.com/u/samratsthnee)
+[![LeetCode](https://img.icons8.com/fluent/48/000000/leetcode.png)](https://leetcode.com/u/samratsthnee)
 
 ## Contact me:
 
