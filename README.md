@@ -7,7 +7,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 ## Talking about personal stuffs:
 
-- I'm an IT enthusiast Student.
+- I'm a CS Student.
 - I’m currently learning JavaScript.
 - How to reach me: coddingsamrat@gmail.com.
 - This is where I write, code and solve problems:
