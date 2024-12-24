@@ -14,7 +14,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://www.github.com/samratyeager)
 [![StackOverflow](https://img.icons8.com/fluent/48/000000/stackoverflow.png)](https://stackoverflow.com/users/27024310/samratstha)
-[![Website](https://img.icons8.com/?size=48&id=60995&format=png&color=000000)](https://samratyeager.github.io/Portfolioo-Website/)
+[![Website](https://img.icons8.com/?size=48&id=XgVsZZvTh0tg&format=png&color=000000)](https://samratyeager.github.io/Portfolioo-Website/)
 
 ## Contact me:
 
