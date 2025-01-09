@@ -10,11 +10,11 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 ## Skills & Frameworks:
 
-[![HTML](https://img.icons8.com/fluent/48/000000/html-5.png)]
-[![CSS](https://img.icons8.com/fluent/48/000000/css3.png)]
+![HTML](https://img.icons8.com/fluent/48/000000/html-5.png)
+![CSS](https://img.icons8.com/fluent/48/000000/css3.png)
 [![JavaScript](https://img.icons8.com/fluent/48/000000/javascript.png)]
 [![Node.js](https://img.icons8.com/fluent/48/000000/nodejs.png)]
-[![Express.js]https://img.icons8.com/?size=47&id=2ZOaTclOqD4q&format=png&color=000000)]
+![Express.js](https://img.icons8.com/?size=47&id=2ZOaTclOqD4q&format=png&color=000000)
 [![Python](https://img.icons8.com/fluent/48/000000/python.png)]
 [![Notion](https://img.icons8.com/fluent/48/000000/notion.png)]
 [![Git](https://img.icons8.com/fluent/48/000000/git.png)]
