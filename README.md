@@ -16,6 +16,7 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 [![StackOverflow](https://img.icons8.com/fluent/48/000000/stackoverflow.png)](https://stackoverflow.com/users/27024310/samratstha)
 [![LeetCode](https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/thepirateking/)
 [![Website](https://img.icons8.com/?size=47&id=XgVsZZvTh0tg&format=png&color=000000)](https://samratyeager.github.io/Portfolioo-Website/)
+[![Figma](https://img.icons8.com/?size=47&id=TTLKwxrd6IL9&format=png&color=000000)](https://www.figma.com/files/team/1345688161552526745/all-projects?fuid=1345688159246636305)
 
 ## Contact me:
 
