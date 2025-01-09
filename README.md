@@ -10,8 +10,15 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 
 ## Skills & Frameworks:
 
-<img src="https://img.icons8.com/fluent/48/000000/html-5.png" width="48" /><img src="https://img.icons8.com/fluent/48/000000/css3.png" width="48" /><img src="https://img.icons8.com/fluent/48/000000/javascript.png" width="48" />
-<img src="https://img.icons8.com/?size=47&id=hsPbhkOH4FMe&format=png&color=000000" width="47" /><img src="https://img.icons8.com/?size=47&id=2ZOaTclOqD4q&format=png&color=000000" width="47" /><img src="https://img.icons8.com/fluent/48/000000/python.png" width="48" /><img src="https://img.icons8.com/fluent/48/000000/notion.png" width="48" /><img src="https://img.icons8.com/?size=47&id=20906&format=png&color=000000" width="47" />
+<img src="https://img.icons8.com/fluent/48/000000/html-5.png" width="48" />
+<img src="https://img.icons8.com/fluent/48/000000/css3.png" width="48" />
+<img src="https://img.icons8.com/fluent/48/000000/javascript.png" width="48" />
+<img src="https://img.icons8.com/?size=47&id=hsPbhkOH4FMe&format=png&color=000000" width="47" />
+<img src="https://img.icons8.com/?size=47&id=2ZOaTclOqD4q&format=png&color=000000" width="47" />
+<img src="https://img.icons8.com/fluent/48/000000/python.png" width="48" />
+<img src="https://img.icons8.com/fluent/48/000000/notion.png" width="48" />
+<img src="https://img.icons8.com/?size=47&id=20906&format=png&color=000000" width="47" />
+
 
 
 
