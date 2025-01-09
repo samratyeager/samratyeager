@@ -17,7 +17,8 @@ Outside of work, I'm interested in furthering my knowledge in the tech world. I 
 ![Express.js](https://img.icons8.com/?size=47&id=2ZOaTclOqD4q&format=png&color=000000)
 ![Python](https://img.icons8.com/fluent/48/000000/python.png)
 ![Notion](https://img.icons8.com/fluent/48/000000/notion.png)
-![Git](https://img.icons8.com/?size=47&id=20906&format=png&color=000000)
+![Git](https://img.icons8.com/fluent/48/000000/git.png)
+
 
 
 
