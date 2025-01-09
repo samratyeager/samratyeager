@@ -6,7 +6,6 @@ I like combining my technical knowledge with design to make beautiful and effici
 Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories).
 
 ## Skills & Frameworks :
-<br>
 <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 
