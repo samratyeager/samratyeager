@@ -1,8 +1,8 @@
 # Hi there! 🙋
 
-I'm Samrat, a programmer based in Nepal.
+I'm Samrat, a programmer and a designer.
 
-I use my technical skills and design knowledge to create efficient, user-friendly apps and websites. I specialize in designing interactive, animated websites and building MERN stack projects. My focus is on creating scalable software with great user experiences, while I continue learning and exploring new technologies through side projects.
+I use my technical skills and design knowledge to create efficient, user-friendly apps and websites. I specialize in designing interactive, animated websites and building MERN stack projects. My focus is on creating scalable websites with visually appealing and great user experiences, while I continue learning and exploring new technologies through side projects.
 
 
 
