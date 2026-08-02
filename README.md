@@ -18,7 +18,7 @@ I use my technical skills and design knowledge to create efficient, user-friendl
 ## Talking about personal stuffs:
 
 - I'm a CS Student.
-- I’m currently doing project designing.
+- I’m currently doing Internship.
 - How to reach me: coddingsamrat@gmail.com.
 - This is where I write, code, design and solve problems:
 
